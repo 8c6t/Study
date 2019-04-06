@@ -15,13 +15,24 @@ router.get('/', async (req, res, next) => {
 
 router.post('/', async (req, res, next) => {
   try {
-    const user = new User({
+     const user = new User({
       name: req.body.name,
       age: req.body.age,
       married: req.body.married,
     });
+    // const user = new User(req.body);
     
     const result = await user.save();
+
+    /*     
+    const result = await User.create({
+      name: req.body.name,
+      age: req.body.age,
+      married: req.body.married,
+    }); 
+    // const result = await User.create(req.body);
+    */
+
     console.log(result);
     res.status(201).json(result);
   } catch (error) {
