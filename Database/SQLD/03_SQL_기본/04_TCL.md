@@ -64,7 +64,7 @@ TCL
 
 ## 4. SAVEPOINT
 
-![rollback](../../img/sql/rollback.jpg)
+![rollback](../../../img/sql/rollback.jpg)
 
 `SAVEPOINT 세이브포인트명`, `ROLLBACK TO 세이브포인트명`
 
