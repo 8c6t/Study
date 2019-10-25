@@ -7,7 +7,7 @@ Spring
 
 ## 1. Spring MVC 모듈
 
-![spring_module](../img/spring/spring-mvc.png)
+![spring_module](../../img/spring/spring-mvc.png)
 
 - MVC 패턴을 적용해 웹 애플리케이션을 만들 수 있는 Spring 모듈 중 하나
 - 내부적으로 Servlet API를 활용한다.
@@ -23,14 +23,19 @@ Spring
 - 원칙적으로는 `javax.servlet.Servlet` 인터페이스의 구현체.
 - 일반적인 자바 독립 실행 프로그램과 달리 main 메서드가 없으며, Servlet Container에 등록된 후 Servlet Container에 의해 생성, 호출, 소멸이 이루어진다.
 
+
 ### 나. Servlet Container
+
 - Java로 웹을 개발하기 위해 필요한 Servlet들의 일종의 저장소
 - Servlet을 실행하고 관리하며 네트워크 통신, Servlet의 생명주기 관리, 스레드 기반의 병렬처리를 대행한다.
 
+
 #### ※ Servlet Container의 주요 기능
+
 - 생명 주기 관리 : Servlet을 로드해 초기화(init) 한다. 또 클라이언트의 요청으로 Servlet 메소드를 호출하며, Servlet Container가 종료되면 Servlet을 종료시키고(destroy) 메모리를 정리한다.
 - 통신 지원 : 웹 서버로부터 받은 요청을 분석해 Servlet을 실행시키고, Servlet에서는 웹 서버의 정보를 확인할 수 있도록 하는 기능을 제공한다.
 - 멀티스레딩 지원 : 클라이언트의 요청에 따라 Servlet을 생성하고, 이미 생성된 Servlet에 대한 요청은 스레드를 생성해 실행한다.
+
 
 ## 2. Spring MVC 프로젝트 로딩 구조
 
@@ -39,6 +44,12 @@ Spring
 - `root-context.xml`과 `servlet-context.xml`이 Spring과 관련된 설정
 
 ### 가. ContextLoaderListener
+
+- 스프링이 제공하는 서블릿 리스너 구현체
+- ApplicationCOntext를 생성하고 서블릿 컨텍스트 라이프사이클에 따라 등록, 소멸시켜준다
+- 웹앱에 등록된 서블릿들이 ApplicationContext를 사용할 수 있도록 ServletContext에 등록
+
+
 ```xml
 <context-param>
     <param-name>contextConfigLocation</param-name>
@@ -52,22 +63,21 @@ Spring
 ```
 
 1. 웹 애플리케이션이 실행되면 Tomcat에 의해 `web.xml`이 로딩된다.
+    - 혹은 `WebApplicationInitializer`를 구현하여 자바 코드로 서블릿을 등록
 2. web.xml에 등록되어 있는 `ContextLoaderListener` 클래스가 생성된다. ContextLoaderListener 클래스는 `ServletContextListener` 인터페이스를 구현하고 있으며, **Spring Container**라 할 수 있는 `WebApplicationContext(이하 WAC)`를 생성하는 역할을 수행한다.
 3. 생성된 ContextLoaderListener는 `root-context.xml`을 로딩하여 해당 파일에 정의된 Bean 객체를 WAC에 생성한다.
+    - 기본 경로는 WEB-INF/applicationContext.xml
+    - XML 설정 파일 대신 자바 설정 파일을 이용할 수 있음
 
 > ContextLoaderListener에 의해 생성되는 WAC는 **Root WAC** 이라고 한다. **전역에서 사용 가능**
 
-#### ※ Spring Container 종류
-
-##### 1. BeanFactory
-- Spring 설정 파일에 등록된 Bean 객체를 생성하고 관리하는 가장 기본적인 Container 기능만 제공
-- Container 구동 시 Bean 객체를 생성하지 않고, 클라이언트의 요청에 의해서만 객체를 생성함(lazy loading)
-
-##### 2. ApplicationContext
-- Container가 구동되는 시점에 Bean 객체를 생성함(eager loading)
-- 일반적으로 ApplicationContext가 사용됨
 
 ### 나. DispatcherServlet
+
+- 스프링이 제공하는 서블릿 구현체
+- 프론트 컨트롤러 역할
+    - 해당 요청을 처리할 핸들러에게 분배하는 역할
+- DispatcherServlet이 ContextLoaderListener에 의해 생성, 등록된 Root WAC을 상속받는 WebApplicationContext를 하나 만든다
 
 ```xml
 <servlet>
@@ -97,7 +107,8 @@ Spring
 
  
 #### ※ WAC 계층
-![WAC](../img/spring/mvc-context-hierarchy.png)
+
+![WAC](../../img/spring/mvc-context-hierarchy.png)
 
 - 일반적인 Spring 웹 프로젝트에서 Context는 2개가 만들어진다
 - **Root WAC**에는 전체에 적용 가능한 프로퍼티, DB, 로깅 등의 **서비스 객체**를 등록한다
@@ -108,7 +119,7 @@ Spring
 
 ## 5. Spring MVC 모듈 동작 프로세스
 
-![](../img/spring/processindispatcherservlet.jpg)
+![](../../img/spring/processindispatcherservlet.jpg)
 
 1. `DispatcherServlet`이 Client로부터 요청을 받는다.
 2. `HandlerMapping`을 통해서 요청을 처리할 Controller를 찾는다.
