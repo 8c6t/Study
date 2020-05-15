@@ -13,7 +13,7 @@ public void bubbleSort(int[] a) {
   int n = a.length - 1;
 
   for (int i = 0; i < n; i++) {
-    for (int j = i; j < n; j++) {
+    for (int j = 0; j < n - i; j++) {
       if (a[j] > a[j + 1]) {
           swap(a, j, j + 1);
       }
@@ -32,7 +32,7 @@ public void bubbleSortCount(int[] a) {
 
   for (int i = 0; i < n; i++) {
     int count = 0;
-    for (int j = i; j < n; j++) {
+    for (int j = 0; j < n - i; j++) {
         if (a[j] > a[j + 1]) {
             swap(a, j, j + 1);
             count++;
