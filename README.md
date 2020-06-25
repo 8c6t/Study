@@ -3,7 +3,7 @@ Study Repository
 
 학습한 내용을 정리한 리포지토리
 
-추후 깃페이지 등의 블로그 이전을 대비하여 마크다운으로 문서 작성
+추후 Github Page 등의 블로그 이전을 대비하여 마크다운으로 문서 작성
 
 
 # AWS
@@ -58,6 +58,8 @@ Study Repository
 - [2 x n 타일링](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/dp/%5BBOJ%2311726%5D2xn%ED%83%80%EC%9D%BC%EB%A7%81.md)
 - [2 x n 타일링 2](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/dp/%5BBOJ%2311727%5D2xn%ED%83%80%EC%9D%BC%EB%A7%81_2.md)
 - [이친수](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/dp/%5BBOJ%232193%5D%EC%9D%B4%EC%B9%9C%EC%88%98.md)
+- [스티커](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/dp/%5BBOJ%239465%5D%EC%8A%A4%ED%8B%B0%EC%BB%A4.md)
+- [포도주 시식](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/dp/%5BBOJ%232156%5D%ED%8F%AC%EB%8F%84%EC%A3%BC_%EC%8B%9C%EC%8B%9D.md)
 
 ### 그래프 & BFS
 
