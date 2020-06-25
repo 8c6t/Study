@@ -57,7 +57,7 @@ Study Repository
 - [카드 구매하기 2](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/dp/%5BBOJ%2316194%5D%EC%B9%B4%EB%93%9C_%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0_2.md)
 - [2 x n 타일링](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/dp/%5BBOJ%2311726%5D2xn%ED%83%80%EC%9D%BC%EB%A7%81.md)
 - [2 x n 타일링 2](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/dp/%5BBOJ%2311727%5D2xn%ED%83%80%EC%9D%BC%EB%A7%81_2.md)
-
+- [이친수](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/dp/%5BBOJ%232193%5D%EC%9D%B4%EC%B9%9C%EC%88%98.md)
 
 ### 그래프 & BFS
 
