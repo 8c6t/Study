@@ -60,6 +60,10 @@ Study Repository
 - [이친수](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/dp/%5BBOJ%232193%5D%EC%9D%B4%EC%B9%9C%EC%88%98.md)
 - [스티커](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/dp/%5BBOJ%239465%5D%EC%8A%A4%ED%8B%B0%EC%BB%A4.md)
 - [포도주 시식](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/dp/%5BBOJ%232156%5D%ED%8F%AC%EB%8F%84%EC%A3%BC_%EC%8B%9C%EC%8B%9D.md)
+- [가장 긴 증가하는 부분 수열](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/dp/%5BBOJ%2311053%5D%EA%B0%80%EC%9E%A5_%EA%B8%B4_%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94_%EB%B6%80%EB%B6%84_%EC%88%98%EC%97%B4.md)
+- [가장 큰 증가하는 부분 수열](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/dp/%5BBOJ%2311055%5D%EA%B0%80%EC%9E%A5_%ED%81%B0_%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94_%EB%B6%80%EB%B6%84_%EC%88%98%EC%97%B4.md)
+- [가장 긴 감소하는 부분 수열](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/dp/%5BBOJ%2311722%5D%EA%B0%80%EC%9E%A5_%EA%B8%B4_%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94_%EB%B6%80%EB%B6%84_%EC%88%98%EC%97%B4.md)
+- [가장 긴 증가하는 부분 수열 6](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/dp/%5BBOJ%2314002%5D%EA%B0%80%EC%9E%A5_%EA%B8%B4_%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94_%EB%B6%80%EB%B6%84_%EC%88%98%EC%97%B4_6.md)
 
 ### 그래프 & BFS
 
