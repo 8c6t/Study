@@ -86,7 +86,7 @@ Study Repository
 
 ### 스택 & 큐
 - [괄호](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/stack_queue/%5BBOJ%239012%5D%20%EA%B4%84%ED%98%B8.md)
-
+- [문자열 폭발](https://github.com/8c6t/Study/blob/d1155aafe29b8f9fbd489c3f72d60da8e5b0c2d0/Algorithm/%ED%92%80%EC%9D%B4/boj/stack_queue/%5BBOJ%239935%5D%EB%AC%B8%EC%9E%90%EC%97%B4_%ED%8F%AD%EB%B0%9C.md)
 
 ## 문제 풀이 (프로그래머스)
 
