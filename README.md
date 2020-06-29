@@ -1,7 +1,7 @@
 Study Repository
 ========
 
-학습한 내용을 정리한 리포지토리
+학습한 내용을 정리하는 리포지토리
 
 추후 Github Page 등의 블로그 이전을 대비하여 마크다운으로 문서 작성
 
@@ -87,6 +87,7 @@ Study Repository
 ### 스택 & 큐
 - [괄호](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/stack_queue/%5BBOJ%239012%5D%20%EA%B4%84%ED%98%B8.md)
 - [문자열 폭발](https://github.com/8c6t/Study/blob/d1155aafe29b8f9fbd489c3f72d60da8e5b0c2d0/Algorithm/%ED%92%80%EC%9D%B4/boj/stack_queue/%5BBOJ%239935%5D%EB%AC%B8%EC%9E%90%EC%97%B4_%ED%8F%AD%EB%B0%9C.md)
+- [히스토그램에서 가장 큰 직사각형](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/stack_queue/%5BBOJ%236549%5D%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8%EC%97%90%EC%84%9C_%EA%B0%80%EC%9E%A5_%ED%81%B0_%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.md)
 
 ## 문제 풀이 (프로그래머스)
 
