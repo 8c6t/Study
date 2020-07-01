@@ -346,6 +346,11 @@ Study Repository
 - [DispatcherServlet](https://github.com/8c6t/Study/blob/master/Spring/MVC/DispatcherServlet.md)
 
 
+## 토비의 스프링 정리
+
+- [오브젝트와 의존관계](https://github.com/8c6t/Study/blob/master/Spring/Toby/01_%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8%EC%99%80_%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84.md)
+
+
 ## Etc
 
 - [Apache POI의 SXSSF를 이용한 MS 엑셀 파일 생성 및 다운로드](https://github.com/8c6t/Study/blob/master/Spring/Etc/POI_Excel.md)
