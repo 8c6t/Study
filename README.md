@@ -29,6 +29,7 @@ Study Repository
 
 - [랜선 자르기](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/binary_search/%5BBOJ%231654%5D%EB%9E%9C%EC%84%A0_%EC%9E%90%EB%A5%B4%EA%B8%B0.md)
 - [나무 자르기](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/binary_search/%5BBOJ%232805%5D%EB%82%98%EB%AC%B4_%EC%9E%90%EB%A5%B4%EA%B8%B0.md)
+- [공유기 설치](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/binary_search/%5BBOJ%232110%5D%EA%B3%B5%EC%9C%A0%EA%B8%B0_%EC%84%A4%EC%B9%98.md)
 
 ### 브루트 포스
 
