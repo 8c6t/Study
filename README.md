@@ -122,6 +122,7 @@ Study Repository
 
 #### 브루트 포스
 - [소수 찾기](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/programmers/coding_kit/brute_force/%EC%86%8C%EC%88%98_%EC%B0%BE%EA%B8%B0.md)
+- [모의고사](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/programmers/coding_kit/brute_force/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.md)
 
 
 #### DFS & BFS
