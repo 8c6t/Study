@@ -53,6 +53,12 @@ Study Repository
 - [로또](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/brute_force/%5BBOJ%236603%5D%EB%A1%9C%EB%98%90.md)
 
 
+### 분할 정복
+
+- [배열 합치기](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/divide_conquer/%5BBOJ%2311728%5D%EB%B0%B0%EC%97%B4_%ED%95%A9%EC%B9%98%EA%B8%B0.md)
+- [하노이 탑 이동 순서](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/divide_conquer/%5BBOJ%2311729%5D%ED%95%98%EB%85%B8%EC%9D%B4_%ED%83%91_%EC%9D%B4%EB%8F%99_%EC%88%9C%EC%84%9C.md)
+- [종이의 개수](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/divide_conquer/%5BBOJ%231780%5D%EC%A2%85%EC%9D%B4%EC%9D%98_%EA%B0%9C%EC%88%98.md)
+
 ### 다이나믹 프로그래밍
 
 - [1,2,3 더하기](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/dp/%5BBOJ%239095%5D123%EB%8D%94%ED%95%98%EA%B8%B0.md)
