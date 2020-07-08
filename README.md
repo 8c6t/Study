@@ -165,6 +165,7 @@ Study Repository
 
 - [K번째수](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/programmers/coding_kit/sort/K%EB%B2%88%EC%A7%B8%EC%88%98.md)
 - [가장 큰 수](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/programmers/coding_kit/sort/%EA%B0%80%EC%9E%A5_%ED%81%B0_%EC%88%98.md)
+- [H-Index](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/programmers/coding_kit/sort/H-Index.md)
 
 
 #### 스택 & 큐
