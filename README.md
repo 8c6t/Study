@@ -174,7 +174,7 @@ Study Repository
 - [다리를 지나는 트럭](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/programmers/coding_kit/stack_queue/%EB%8B%A4%EB%A6%AC%EB%A5%BC_%EC%A7%80%EB%82%98%EB%8A%94_%ED%8A%B8%EB%9F%AD.md)
 - [쇠막대기](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/programmers/coding_kit/stack_queue/%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0.md)
 - [프린터](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/programmers/coding_kit/stack_queue/%ED%94%84%EB%A6%B0%ED%84%B0.md)
-
+- [주식 가격](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/programmers/coding_kit/stack_queue/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.md)
 
 # Database (NoSQL)
 
