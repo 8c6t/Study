@@ -124,7 +124,7 @@ Study Repository
 #### 이진검색
 
 - [예산](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/programmers/coding_kit/binary_search/%EC%98%88%EC%82%B0.md)
-
+- [입국심사](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/programmers/coding_kit/binary_search/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.md)
 
 #### 브루트 포스
 - [소수 찾기](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/programmers/coding_kit/brute_force/%EC%86%8C%EC%88%98_%EC%B0%BE%EA%B8%B0.md)
