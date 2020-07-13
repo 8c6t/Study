@@ -103,6 +103,7 @@ Study Repository
 
 - [동전 0](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/greedy/%5BBOJ%2311047%5D%EB%8F%99%EC%A0%840.md)
 - [회의실배정](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/greedy/%5BBOJ%231931%5D%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%95.md)
+- [ATM](https://github.com/8c6t/Study/blob/master/Algorithm/%ED%92%80%EC%9D%B4/boj/greedy/%5BBOJ%2311399%5DATM.md)
 
 ## 문제 풀이 (프로그래머스)
 
