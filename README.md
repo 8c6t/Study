@@ -228,6 +228,8 @@ Study Repository
 - [예외](https://github.com/8c6t/Study/blob/master/Spring/Toby/04_%EC%98%88%EC%99%B8.md)
 - [서비스 추상화](https://github.com/8c6t/Study/blob/master/Spring/Toby/05_%EC%84%9C%EB%B9%84%EC%8A%A4_%EC%B6%94%EC%83%81%ED%99%94.md)
 - [AOP](https://github.com/8c6t/Study/blob/master/Spring/Toby/06_AOP.md)
+- [스프링이란 무엇인가](https://github.com/8c6t/Study/blob/master/Spring/Toby/08_%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%B4%EB%9E%80_%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md)
+
 
 ## Etc
 
